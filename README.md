@@ -3,7 +3,7 @@
  
 # Installation
 
-The Punisher Menu requires Ultimate ASI Loader (https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases)
+The Punisher Plugin requires Ultimate ASI Loader (https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases)
 Rename it to dinput8.dll or d3d8.dll, you do not need to do this step if you are using ThirteenAG's Widescreen Fix.
 
 Place "PunisherPlugin.asi" into main folder of the game.
