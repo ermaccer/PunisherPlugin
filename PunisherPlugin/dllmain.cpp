@@ -20,6 +20,9 @@ void Init()
 		// force pick up text
 		Nop(0x4C02B6, 3);
 	}
+
+	if (eSettingsManager::bDisableBlackWhiteFilterOnKills)
+		Patch<char>(0x4D84EB + 6, 0);
 }
 
 bool CheckExecutable()
