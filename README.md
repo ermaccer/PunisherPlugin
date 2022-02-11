@@ -13,6 +13,11 @@ Required executable size (pun.exe, not punisher!): 2605056
 
 # Features
 
+# Disable Black White Filter
+
+Removes B/W filter from kills/executions.
+
+
 
 # Disable Score Penalty
 
